@@ -3,6 +3,8 @@
 
  Criado durante aula do curso em video, by Gustavo Guanabara.
  
+ Você pode acessar o manual sobre MarkDown atraves do link [MarkDown](https://github.com/gustavoguanabara/git-github/blob/master/manuais-PDF/guia-markdown.pdf)
+ 
  ***
 
 Lista numerada:
